@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BosLeoFETest/static/css/main.403d99bc.css",
+    "main.js": "/BosLeoFETest/static/js/main.3fbad0c2.js",
+    "static/media/Movie_Image.png": "/BosLeoFETest/static/media/Movie_Image.7891559241a5a89af383.png",
+    "index.html": "/BosLeoFETest/index.html",
+    "main.403d99bc.css.map": "/BosLeoFETest/static/css/main.403d99bc.css.map",
+    "main.3fbad0c2.js.map": "/BosLeoFETest/static/js/main.3fbad0c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403d99bc.css",
+    "static/js/main.3fbad0c2.js"
+  ]
+}
